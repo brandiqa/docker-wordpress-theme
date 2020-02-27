@@ -24,21 +24,21 @@
 @import "layouts/posts";
 @import "layouts/tinymce";
 
-// .brand {
-//   @extend .display-3;
+.brand {
+  @extend .display-3;
 
-//   color: #013d30;
-// }
+  color: #013d30;
+}
 
-// .entry-title {
-//   @extend .display-4;
+.entry-title {
+  @extend .display-4;
 
-//   a {
-//     color: #015c48;
-//     text-decoration: underline;
-//   }
-// }
+  a {
+    color: #015c48;
+    text-decoration: underline;
+  }
+}
 
-// .page-header {
-//   display: none;
-// }
+.page-header {
+  display: none;
+}
